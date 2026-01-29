@@ -1,5 +1,12 @@
 streamlit==1.44.1
 pillow==11.1.0
+agno>=2.4.7
+google-genai>=1.11.0
+duckduckgo-search
+python-dotenv
+
+streamlit==1.44.1
+pillow==11.1.0
 
 agno>=2.2.10
 
